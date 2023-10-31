@@ -1,13 +1,14 @@
 /*name- tanmay kumar swain
  * reg 2241019632
  */
+
 import java.util.*;
 
 import java.io.*;
 public class Q8_1092 {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
-		// TODO Auto-generated method stub
+		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n=Integer.parseInt(br.readLine());
         
